@@ -1,0 +1,7 @@
+E→TE'
+E'→-TE'|ε
+T→FT'
+T'→/FT'|ε
+F→PF'
+F'→^PF'|ε
+P→(E)|i
